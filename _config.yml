@@ -33,6 +33,7 @@ github_username:  zerostride
 theme: jekyll-dash
 plugins:
   - jekyll-feed
+  - liquid-md5
 
 # Exclude from processing.
 # The following items will not be processed, by default.
