@@ -1,0 +1,16 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "dash";
+
+.post-excerpt {
+    @include themed() {
+        color: t('foreground-color');
+    }
+}
+
+figure figcaption {
+    text-align: center;
+    font-style:oblique;
+}
