@@ -7,8 +7,6 @@ tags: "#AltDevBlogADay"
 mathjax: true
 ---
 
-> This post originally appeared on #AltDevBlogADay on June 16, 2011
-
 Analog input devices are becoming more and more prevalent in the gaming landscape. We've gone from just using gamepads and joysticks, to accelerometer data, swipe gestures, and pretending we have gamepads by using touch screens. Analog controls are all about conveying a feel to the user in order to connect them to their avatar, and deepen the play-experience. There are several tricks for this that can be employed with fantastic results to deliver controls that feel great.
 
 Let \\(μ\\) be a normalized input value from an analog device. Many analog devices will provide input as an integer. For the purposes of this discussion, it is assumed that all input values have been normalized.

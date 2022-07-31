@@ -6,8 +6,6 @@ categories: blog
 tags: "#AltDevBlogADay"
 ---
 
-> This post originally appeared on #AltDevBlogADay on March 3, 2011
-
 Every few months a game studio closes, and there are largely two reactions: ‘genuine shock and outrage’, and ‘feigned shock and outrage’. The people in the second group feign shock and outrage mostly because they simply don’t want to argue with people in the first group.
 
 Before I go any further, I’ll lay out the requirements for being in the second group, so you can stop reading now if you want. You are going to have to pull your head out of whatever “mission critical code” you are writing, every once in a while, and pay attention to all of that “irrelevant shit” that goes on at other levels. You’re going to have to investigate politics; you’re going to have to think about logistics; you’re going to have to talk-to (and worse, listen-to) people you think are useless. Yes, I am suggesting that you stop thinking about how to squeeze just one more instruction out of that shader, for as much as maybe an hour a week.
