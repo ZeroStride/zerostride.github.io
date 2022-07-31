@@ -25,14 +25,14 @@ Being a gamer meant, upon meeting another gamer, you could form an instant conne
 
 # The Beginning of the End
 
-Then came Farmville…well actually casual games came before that, and everyone bitched & moaned about ‘bubble poppers’ too, but let’s stay focused, people. This is a new crisis in gaming, and it’s not like any other previous crisis because this time it’s actually going to ruin gaming and we’re burning righteous indignation here. Geez, it’s not like this pattern of behavior has repeated itself throughout human history, and could be categorized and identified by common elements or something.
+Then came Farmville...well actually casual games came before that, and everyone bitched & moaned about ‘bubble poppers’ too, but let’s stay focused, people. This is a new crisis in gaming, and it’s not like any other previous crisis because this time it’s actually going to ruin gaming and we’re burning righteous indignation here. Geez, it’s not like this pattern of behavior has repeated itself throughout human history, and could be categorized and identified by common elements or something.
 
-Now where was I…oh right, Facebook, evil, Farmville…cows, those horrible cows.
+Now where was I...oh right, Facebook, evil, Farmville...cows, those horrible cows.
 
 So along came Facebook and about a bajillion people said, “Wow this looks like a good place for me post pictures of myself in mirrored sunglasses, or with a martini in my hand. I can destroy gaming while I’m at it!” right? Well part of that is true, at least. There were web-based games before Facebook, like Kingdom of Loathing, Travian, and many more, but they didn’t get nearly the type of exposure that was just around the corner.
 Late 2006 Facebook had just recently started their development platform, and opened up registrations to all comers. They ended that year with about 12 million users. By April of 2007, that number had almost doubled to 20 million. In May, the Facebook Platform launched with 85 applications. By October, there were over 50 million users. Overnight, it became possible to spread, virally, the ability to use a 3rd party application to slap, poke or wink at someone.
 
-Soon came getting bit by Vampires, getting invited into someone’s Mafia, and the cows…
+Soon came getting bit by Vampires, getting invited into someone’s Mafia, and the cows...
 
 # Nouveau Riche
 
@@ -42,15 +42,15 @@ They became gamers, and gamers lost their secret clubhouse.
 
 Zynga became a game developer.
 
-The industry reeled. This was not of our doing; this had to be a fad. This was Gatsby showing up to the Buchanan’s mansion. We alone had the lineage needed to carry the torch of gaming into the new millennium. We, the gaming elite, had the integrity, the honor, and of course the moral high ground. These scammers, these spammers; these ill-bred rakes…dey tuk our jerbs!
+The industry reeled. This was not of our doing; this had to be a fad. This was Gatsby showing up to the Buchanan’s mansion. We alone had the lineage needed to carry the torch of gaming into the new millennium. We, the gaming elite, had the integrity, the honor, and of course the moral high ground. These scammers, these spammers; these ill-bred rakes...dey tuk our jerbs!
 
-Or to quote Theognis of Megara, “In former days, there was a tribe who knew no laws nor manners…These men are nobles, now, the gentlemen of old are now the trash.” He was bitching & moaning about this very thing back in 600 B.C.
+Or to quote Theognis of Megara, “In former days, there was a tribe who knew no laws nor manners...These men are nobles, now, the gentlemen of old are now the trash.” He was bitching & moaning about this very thing back in 600 B.C.
 
 # Rampant Butt-Hurt
 
 So by this point, you should probably be picking up on the fact that I think the social-game detractors, and their fanatical following (hint: yeah I probably do mean you) are a bunch of mindless, change-averse, dimwits who couldn’t identify an anthropological pattern if it showed up on their Facebook wall and asked them to help build a barn.
 
-We denounce, as ignorant, every mis-characterization of…whatever is the latest game Fox News has talked about. We bring out facts and statistics every time some dipshit with a PhD claims, baselessly, that video games cause violent behavior. Exasperated, we take refuge in our belief that the mainstream doesn’t understand us; they just don’t get it.
+We denounce, as ignorant, every mis-characterization of...whatever is the latest game Fox News has talked about. We bring out facts and statistics every time some dipshit with a PhD claims, baselessly, that video games cause violent behavior. Exasperated, we take refuge in our belief that the mainstream doesn’t understand us; they just don’t get it.
 
 Hardcore gamers, and game developers are a minuscule minority. We like this when we are up late at night perfecting our split-second reactions in PixelJunk Shooter, but when faced with any of the implications of this minority standing, we cry foul. In fact the only thing we whine more intensely about is the mainstream trying to understand, and join us.
 
@@ -58,7 +58,7 @@ Gamers, and game developers bitch & moan about any expansion of the gaming demog
 
 Don’t want to believe me? Watch Warren Spector’s PAX 2010 keynote:
 
-> “We spent 20 years trying to convince the public how amazing games are, and we’ve won. …we have to get past not wanting to let more people in the club.”
+> “We spent 20 years trying to convince the public how amazing games are, and we’ve won. ...we have to get past not wanting to let more people in the club.”
 
 # Psychic Hot-lines Are Evil
 
@@ -84,7 +84,7 @@ So who will lead this improvement of quality in the social games space? Veteran 
 
 So lets stop “justifying” social games. The burden of proof is no longer on the proponents of social gaming as a viable medium for fun. The detractors, you nay-sayers, start proving your case. You can start by examining the patterns of logic and reasoning you are applying to this argument, and taking a look at with whom you share philosophy.
 
-# So In Conclusion…
+# So In Conclusion...
 
 Mexican immigrants cause unemployment, comic books aren’t art, homosexuals destroy the sanctity of marriage, and psychic hot-lines are evil.
 
