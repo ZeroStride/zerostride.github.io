@@ -35,7 +35,7 @@ Attorney-client privilege
 : Stuff you say to your lawyer isn’t subject to discovery. There are exceptions, as always, but the one thing I want to highlight is this: this is communication between you and your lawyer. If you get an e-mail from your lawyer, and forward it to someone else in the company, you have likely made that e-mail subject to discovery. If you get a detailed itemization of time spent from your lawyer, and you stuff that into the folder to send to the book-keeper, you have made the details on how the lawyer spent their time subject to discovery. You should always, always, always ask your lawyer any questions you have about attorney-client privilege before you engage in the communication about-which you have questions.
 
 Indemnification
-: If Alice indemnifies Bob, this doesn’t mean that Bob is free-and-clear should some feces be on an incoming trajectory. All it means is that Alice will defend Bob to the extent of their resources. That last bit is important. If Mallory comes along and sues Bob, and can out-spend Alice…Bob is still going to be in trouble. Indemnification from Alice may be no more protective than a wet paper-bag.
+: If Alice indemnifies Bob, this doesn’t mean that Bob is free-and-clear should some feces be on an incoming trajectory. All it means is that Alice will defend Bob to the extent of their resources. That last bit is important. If Mallory comes along and sues Bob, and can out-spend Alice...Bob is still going to be in trouble. Indemnification from Alice may be no more protective than a wet paper-bag.
 
 # Meeting Your Lawyer
 

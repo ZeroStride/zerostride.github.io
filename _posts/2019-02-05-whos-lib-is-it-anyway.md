@@ -11,14 +11,14 @@ Working with Android SDKs can be a bit like inviting someone to store their vint
 I recently needed to answer, “Who’s the asshole bringing in these symbols?” and this is how I found out.
 
 {% figure caption:"Search JAR files for ‘android.arch.lifecycle’ symbols." %}
-```bash
+```shell
 find . -name "*.jar" -type f -print \
   -exec sh -c "jar -tf {} | grep android\/arch\/lifecycle" \;
 ```
 {% endfigure %}
 
 {% figure caption:"Search AAR files for ‘android.arch.lifecycle’ symbols." %}
-```bash
+```shell
 find . -name "*.aar" -type f -print \
   -exec sh -c "unzip -p -j {} classes.jar | jar -t | grep android\/arch\/lifecycle" \;
 ```
