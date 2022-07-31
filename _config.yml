@@ -33,6 +33,7 @@ github_username:  zerostride
 theme: jekyll-dash
 plugins:
   - jekyll-feed
+  - jekyll-figure
   - jekyll/tagging
   - liquid-md5
 
