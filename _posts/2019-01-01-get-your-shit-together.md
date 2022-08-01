@@ -3,7 +3,7 @@ layout: post
 title:  "Get Your Shit Together"
 date:   2019-01-01
 categories: blog
-tags: drunken-rant
+tags: drunk rant
 ---
 
 

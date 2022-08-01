@@ -3,7 +3,7 @@ layout: post
 title:  "Psychic Hotlines are Evil"
 date:   2011-03-18
 categories: blog
-tags: "#AltDevBlogADay"
+tags: ["#AltDevBlogADay", drunk, rant]
 ---
 
 Recently upon a midnight dreary, I was watching Futurama and saw a commercial for a psychic hotline. As I wearily pondered what kind of weak-ass reasoning someone would use to justify paying $3.99 a minute to talk to a “real psychic,” it struck me like a raven hitting a plate-glass window: psychic hot-lines are evil!
