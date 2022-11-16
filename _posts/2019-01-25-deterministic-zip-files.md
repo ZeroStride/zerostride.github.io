@@ -3,6 +3,7 @@ layout: post
 title:  "Building Deterministic Zip Files with Built-In Commands"
 date:   2019-01-25
 categories: blog
+tags: aws
 ---
 
 Zip files are not deterministic by nature, and this can cause some problems when you’re trying to do what you gotta do.
