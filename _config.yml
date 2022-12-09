@@ -27,15 +27,12 @@ url: "https://ezri.me" # the base hostname & protocol for your site, e.g. http:/
 twitter_username: zerostride
 github_username:  zerostride
 
-mastodon:
-- username: zerostride
-  instance: mastodon.social
-
 # Build settings
 theme: jekyll-dash
 plugins:
   - jekyll-feed
   - jekyll-figure
+  - jekyll-link-attributes
   - jekyll/tagging
   - liquid-md5
 
@@ -78,6 +75,11 @@ tag_page_dir: tag
 # for github pages custom domains:
 # include: [CNAME]
 
+# jekyll-link-attributes
+external_links:
+  enabled: true
+  rel: me
+
 dash:
   # the way how dates should be displayed
   date_format: "%b %-d, %Y"
@@ -101,8 +103,8 @@ dash:
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - url: https://twitter.com/zerostride
-      icon: twitter-square
+    - url: https://mastodon.social/@zerostride
+      icon: mastodon
       color: cyan
     # - url: https://bitbrain.itch.io
     #   icon: itch-io
