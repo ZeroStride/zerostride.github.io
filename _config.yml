@@ -103,7 +103,7 @@ dash:
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - url: https://mastodon.social/@zerostride
+    - url: https://mastodon.lol/@zerostride
       icon: mastodon
       color: cyan
     # - url: https://bitbrain.itch.io
